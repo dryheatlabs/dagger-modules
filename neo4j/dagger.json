@@ -1,0 +1,6 @@
+{
+  "name": "neo4j",
+  "sdk": "go",
+  "source": ".",
+  "engineVersion": "v0.11.9"
+}
